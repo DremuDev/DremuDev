@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Full-Stack-WebDeveloper  | Lifelong Learner | MERN Specialist <br>Just a 15 year child intrested in Full-stack, AI/ML and Robotics <br>
+I am a Full-Stack-WebDeveloper  | Lifelong Learner | MERN Specialist <br>Just a 15 year child intrested in Full-stack, AI/ML and passionate about Robotics <br>
 
 
 ## 🌐 Socials:

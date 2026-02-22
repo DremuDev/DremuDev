@@ -15,7 +15,7 @@ I am a Full-Stack-WebDeveloper  | Lifelong Learner | MERN Specialist <br>Just a 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DremuDark&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo

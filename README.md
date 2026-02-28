@@ -1,5 +1,5 @@
-                                                 # 💫 About Me :
-                                           Hi, I’m Shivanshu Tripathi <br> 
+# 💫 About Me :
+Hi, I’m Shivanshu Tripathi <br> 
 I specialize in  Full Stack Web Development, I genuinely enjoy understanding how things work . I’m not someone who just writes code and moves on; if something works, I want to know how it works. I build web applications using technologies like HTML, CSS, JavaScript, React, Node.js, MongoDB, etc. and I’m constantly learning more about system design and AI. I’m passionate about robotics that how code can control real-world machines and turn logic into physical movement. I believe in continuous efforts and continuous improvement. I have one thing to tell i enjoy to learn and build forever.
 
 # 💻 My Technologies and Frameworks:

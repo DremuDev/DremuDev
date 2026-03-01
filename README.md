@@ -1,14 +1,15 @@
-<h1 align="center">👋 Hi, I am Shivanshu Tripathi</h1>
+<div align="center">
 
-<p align="center">
-⚡ I am MERN specialist passionate about AI/ML and Robotics <br>
-  
-🌐 I am currently exploring AI/ML and Robotics <br>
+# 👋 Hi, I am Shivanshu Tripathi
 
-📧 Contact me at: shivanshucode00@gmail.com
-</p>
+⚡ I am MERN specialist passionate about AI/ML and Robotics  <br>
 
-<p align="center">
+🌐 I am currently exploring AI/ML and Robotics  <br>
+
+📧 Contact me at: shivanshucode00@gmail.com  
+
+<br>
+
 <a href="https://discord.gg/discord.drizzlemc.fun">
   <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
 </a>
@@ -24,7 +25,8 @@
 <a href="https://youtube.com/@dremudark">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white">
 </a>
-</p>
+
+</div>
 
 ---
 

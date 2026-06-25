@@ -85,9 +85,9 @@ Passionate about building scalable web applications and exploring how AI and Rob
 
 ## 📫 Connect With Me
 
-- 📧 Email:shivanshucode00@gmail.com
+- 📧 Email: shivanshucode00@gmail.com
 - 💼 LinkedIn: I will make it in future 😁
-- 🐦 X/Twitter: @DremuDark
+- 🐦 X/Twitter: https://x.com/DremuDark
 - 🌐 Portfolio: I will make it in future 😁
 
 ---
